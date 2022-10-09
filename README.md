@@ -8,6 +8,7 @@ Berikut Tampilan Aplikasi ini :
 ![image](https://user-images.githubusercontent.com/98677425/194738276-d84668de-3a4f-4b14-ac0f-54ccd82f584a.png)
 ![image](https://user-images.githubusercontent.com/98677425/194738287-328e6f77-845c-422f-97c6-5fba3f9fa3a9.png)
 
+Note : Aplikasi ini masih dalam tahap pengembangan.
 
 ## Getting Started
 

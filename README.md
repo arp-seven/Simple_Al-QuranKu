@@ -1,6 +1,13 @@
-# alquran_app
+# Al-QuranKu
 
-A new Flutter project.
+Aplikasi ini dibuat dengan Flutter dan Tampilanya Masih Sederhana. Data Alquran yang ada pada aplikasi ini bersumber dari : https://github.com/gadingnst/quran-api
+
+Berikut Tampilan Aplikasi ini : 
+
+![image](https://user-images.githubusercontent.com/98677425/194738294-f611808a-f36f-4ffa-840a-29475782f66a.png)
+![image](https://user-images.githubusercontent.com/98677425/194738276-d84668de-3a4f-4b14-ac0f-54ccd82f584a.png)
+![image](https://user-images.githubusercontent.com/98677425/194738287-328e6f77-845c-422f-97c6-5fba3f9fa3a9.png)
+
 
 ## Getting Started
 
